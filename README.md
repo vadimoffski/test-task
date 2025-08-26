@@ -6,8 +6,6 @@ This document describes the architecture for an error logging service that helps
 
 ## System Flow Diagram
 
-![Diagram](./diagram.png)
-
 ```mermaid
 sequenceDiagram
     participant App as User Application
